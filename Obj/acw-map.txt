@@ -1,0 +1,4 @@
+xamarin_calculator.MainActivity, xamarin_calculator;md5af9564d425c2ace2537dbe28992631b8.MainActivity
+xamarin_calculator.MainActivity, xamarin_calculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af9564d425c2ace2537dbe28992631b8.MainActivity
+xamarin_calculator.MainActivity;md5af9564d425c2ace2537dbe28992631b8.MainActivity
+xamarin_calculator.MainActivity;md5af9564d425c2ace2537dbe28992631b8.MainActivity

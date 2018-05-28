@@ -1,0 +1,15 @@
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/bin/Debug/xamarin_calculator.dll
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/bin/Debug/xamarin_calculator.pdb
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/bin/Debug/com.Thomas.xamarin_calculator.apk
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/bin/Debug/com.Thomas.xamarin_calculator-Signed.apk
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/xamarin_calculator.csproj.CoreCompileInputs.cache
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/xamarin_calculator.dll
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/xamarin_calculator.pdb
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/android/bin/com.Thomas.xamarin_calculator.apk
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/res/layout/main.xml
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/res/values/strings.xml
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/R.cs.flag
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/uploadflags.txt
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/bin/Debug/Mono.Android.pdb
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/linksrc/xamarin_calculator.pdb
+/Users/thomas/Projects/xamarin_calculator/xamarin_calculator/obj/Debug/linksrc/Mono.Android.pdb
